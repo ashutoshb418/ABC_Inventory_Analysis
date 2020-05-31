@@ -5,15 +5,27 @@ The data analyst suggest to remove overpriced and underpriced spare parts by rem
 Data columns (total 13 columns): Description 
 
 BikeNumber            Registration number of bike 
+
 Company               Bike company name 
+
 Make                  Bike sub category 
+
 Model                 Model 
+
 Type                  Further description of bike model 
+
 Year                  Make year 
+
 Desciption            Description of spare parts 
-Category              Category of spare parts 
+
+Category              Category of spare parts
+
 Quantity              Quantity of spare parts 
-Parts Out Date        Out date  
-Cost Per Part         Average cost per spare part 
+
+Parts Out Date        Out date
+
+Cost Per Part         Average cost per spare part
+
 Cost Of Parts Used    Total cost of spare parts 
+
 Month                 Month 
