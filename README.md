@@ -3,7 +3,7 @@
  
 After few months company wants to apply ABC inventory analysis technique to their spare parts inventory for this they are going to use the data collected so far. As they start analysing their data they found that the cost of several spare parts are overpriced because of wrong data entry. For e.g a 10 mm bolt whose price range between Rs.1-5 is marked as Rs 100. They asked their data analyst to solve this problem.
 
-The data analyst suggest to remove overpriced and underpriced spare parts by removing outliers. But the problem ios their are about 5000 categories of spare parts like nits, bolts, visor, barring etc. and so he have to remove outliers by grouping them seperately one by one.  This project involves removal of those outliers by utilizing a file Bike_data.csv, whose description is given below 
+The data analyst suggest to remove overpriced and underpriced spare parts by removing outliers. But the problem is their are about 5000 categories of spare parts like nits, bolts, visor, barring etc. and so he have to remove outliers by grouping them seperately one by one.  This project involves removal of those outliers by utilizing a file Bike_data.csv, whose description is given below 
 
 Data columns (total 13 columns): Description 
 
